@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国优先 · 全球新闻晨报"
+  short_description: "核验全球新闻与中国重大灾情，不限条数，去重后生成有来源的中文晨报"
+  default_prompt: "使用 $china-news-morning-brief 生成今天的中文晨报，补查福建及全国重大灾情，核验来源后直接发送正文。"
